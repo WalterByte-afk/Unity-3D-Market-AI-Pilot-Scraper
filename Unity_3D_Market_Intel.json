@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "pilot": "WalterByte",
+    "sector": "3D Assets",
+    "date": "2026-02-22T14:01:41.770024",
+    "source": "https://assetstore.unity.com/3d",
+    "total_assets": 15
+  },
+  "results": [
+    {
+      "id": 1,
+      "asset_name": "Stylized Nature & Environment MEGA PACK",
+      "publisher": "So Stylized",
+      "price": 34.5,
+      "rating": 4.7,
+      "review_count": 21
+    },
+    {
+      "id": 2,
+      "asset_name": "Milo the Cat",
+      "publisher": "MalberS Animations",
+      "price": 49.99,
+      "rating": null,
+      "review_count": 8
+    },
+    {
+      "id": 3,
+      "asset_name": "BoZo: Modular Anime Characters - Base Pack",
+      "publisher": "BoZo",
+      "price": 20.0,
+      "rating": 0.0,
+      "review_count": 26
+    },
+    {
+      "id": 4,
+      "asset_name": "Low-Poly Medieval Fantasy - Biped Creatures Pack",
+      "publisher": "Polysplit Games",
+      "price": 7.49,
+      "rating": 4.9,
+      "review_count": 3
+    },
+    {
+      "id": 5,
+      "asset_name": "Fantasy Worlds - Forests, Meadows & Dungeons - Stylized 3D Environment",
+      "publisher": "TriForge Assets",
+      "price": 64.5,
+      "rating": 4.5,
+      "review_count": 10
+    },
+    {
+      "id": 6,
+      "asset_name": "KAWAII ANIMATIONS Cool Action",
+      "publisher": "FUDASTORE",
+      "price": 24.99,
+      "rating": 4.8,
+      "review_count": 5
+    },
+    {
+      "id": 7,
+      "asset_name": "EASTLANDS : Stylized Asian Environment",
+      "publisher": "Polyart Studio",
+      "price": 34.99,
+      "rating": 4.7,
+      "review_count": 10
+    },
+    {
+      "id": 8,
+      "asset_name": "Stylized Poly Nature - 3D Environment + Day Night Cycle & Dynamic Cloud Shadows",
+      "publisher": "Nicrom",
+      "price": 22.5,
+      "rating": 2.5,
+      "review_count": 12
+    },
+    {
+      "id": 9,
+      "asset_name": "POLYGON - Samurai Empire Pack - Art by Synty",
+      "publisher": "Synty Studios",
+      "price": 99.99,
+      "rating": null,
+      "review_count": null
+    },
+    {
+      "id": 10,
+      "asset_name": "Crawling Ghoul Animations",
+      "publisher": "RamsterZ",
+      "price": 9.99,
+      "rating": null,
+      "review_count": 4
+    },
+    {
+      "id": 11,
+      "asset_name": "POLYGON - Fantasy Kingdom Pack - Art by Synty",
+      "publisher": "Synty Studios",
+      "price": 349.99,
+      "rating": 4.7,
+      "review_count": 46
+    },
+    {
+      "id": 12,
+      "asset_name": "Modular Stylized Character 1",
+      "publisher": "Rukha93",
+      "price": 40.0,
+      "rating": 4.5,
+      "review_count": 30
+    },
+    {
+      "id": 13,
+      "asset_name": "Poly Pro Universe - Low Poly Assets",
+      "publisher": "VenCreations",
+      "price": 199.99,
+      "rating": 4.4,
+      "review_count": 20
+    },
+    {
+      "id": 14,
+      "asset_name": "Forest Environment - Dynamic Nature",
+      "publisher": "NatureManufacture",
+      "price": 60.0,
+      "rating": 4.7,
+      "review_count": 183
+    },
+    {
+      "id": 15,
+      "asset_name": "Low Poly Ultimate Pack",
+      "publisher": "polyperfect",
+      "price": 150.0,
+      "rating": 4.8,
+      "review_count": 201
+    }
+  ]
+}
